@@ -1,0 +1,6 @@
+%FSTAX24Y24*%
+%MOIN*%
+%IN tetrassi.boardoutline.ger *%
+%ADD10C,0.0100*%
+D10*G01Y05D01*Y0D02*X08D01*Y1D01*X0D01*Y05D01*
+M02*
